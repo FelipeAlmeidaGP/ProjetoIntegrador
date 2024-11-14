@@ -9,7 +9,6 @@ Professor: Rodrigo Remor Oliveira
 
 
 Rf1) Permitir que o usuário cadastre uma conta. 
-
 Rf2) Permitir que o usuário entre em uma conta.
 Rf3) Permitir que o usuário veja os dados de sua conta.
 Rf4) Permitir que o usuário altere seus dados.
