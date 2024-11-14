@@ -11,7 +11,6 @@ Turma: 2K
 Professor: Rodrigo Remor Oliveira
 
 
-
 Rf1) Permitir que o usuário cadastre uma conta. 
 
 Rf2) Permitir que o usuário entre em uma conta.
